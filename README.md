@@ -47,8 +47,7 @@ This project analyzes sales performance of ChocoRush, a chocolate retail busines
 ---
 
 ##  Dashboard Preview
-![Dashboard Screenshot](add-your-image-link-here)
-
+- Screentshot :-https://github.com/nishaatsheikh/ChocoRush-Sales-Analysis-Dashboard-Power-BI-/blob/main/Chocolate%20Screenshot%201.png?raw=true
 ---
 
 ##  Learnings
